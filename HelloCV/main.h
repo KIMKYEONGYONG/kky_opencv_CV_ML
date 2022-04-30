@@ -6,4 +6,4 @@
 using namespace cv;
 using namespace std;
 
-Mat myImageRead(int flag =1);
+Mat myImageRead(String filename, int flag);

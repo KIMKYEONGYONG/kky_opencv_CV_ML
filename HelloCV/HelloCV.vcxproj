@@ -150,11 +150,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="chap05.cpp" />
+    <ClCompile Include="chap06.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="chap05.h" />
     <ClInclude Include="main.h" />
+    <ClInclude Include="chap06.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
